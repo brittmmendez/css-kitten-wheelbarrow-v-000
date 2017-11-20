@@ -30,7 +30,7 @@
 #ball + img {
   position: absolute;
   z-index: 4;
-  top: 240px;
+  top: 260px;
   left: 455px;
 }
 
@@ -39,6 +39,6 @@
 img[alt="Kitty 5"] {
   position: absolute;
   z-index: 3;
-  top: 280px;
+  top: 240px;
   left: 265px;
 }
